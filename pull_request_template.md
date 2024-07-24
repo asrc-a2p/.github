@@ -4,8 +4,6 @@
 
 Please include a summary of the changes and the related issue. Please also include relevant motivation and context. Please make sure a Jira is associated with PR.
 
-Fixes #(issue)
-
 ## Checklist:
 
 - [ ] I have checked this PR built and running on CI
