@@ -2,7 +2,7 @@
 
 ## Description
 
-Please include a summary of the changes and the related issue. Please also include relevant motivation and context. Please make sure a Jira is associated with PR.
+PLEASE CHANGE ME because even Sherlock Holmes needs a clue! Please include a summary of the changes and the related issue. Please also include relevant motivation and context. Please make sure a Jira is associated with PR.
 
 ## Checklist:
 
